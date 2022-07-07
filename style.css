@@ -1,0 +1,16 @@
+body{
+    background-color: palevioletred;
+    color: purple;
+}
+.heading{
+    width: 80%;
+    font-size: 25px;
+}
+.name_of_objects,#result_object_name,#result_object_accuracy{
+    color: paleturquoise;
+}
+#camera{
+    border: 2px solid turquoise;
+    width: 350px;
+    height: 300px;
+}
